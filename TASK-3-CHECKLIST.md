@@ -1,0 +1,12 @@
+# Task 3 testing checklist
+- [ ] Import database/schema.sql
+- [ ] Create first admin and delete setup-admin.php
+- [ ] Register a user; verify public registration assigns the user role
+- [ ] Verify valid login, invalid login rejection, and logout
+- [ ] Verify non-admin cannot open admin pages
+- [ ] Admin can add, list, search, edit, and delete another user
+- [ ] Admin cannot delete own account
+- [ ] User can update profile name, phone, bio
+- [ ] Valid image under 2 MB uploads; unsupported/large image is rejected
+- [ ] Check responsive layout at desktop and mobile widths
+- [ ] Record ~8-minute demo and push project to GitHub
